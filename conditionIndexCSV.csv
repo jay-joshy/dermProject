@@ -1,22 +1,25 @@
-Name;html;tags;imageSrc;defin;symptoms;pe;diagnosis;ddx;management;epid;patho;summary
-Cellulitis;cellulitis.html;red, erythema, tender, unilateral, abscess, erosions+pediatric, adult, diabetes, immunocompromised+non-emergent+infection;images/cellulitis_dermN_01.jpg;Bacterial infection of lower dermis and subcutaneous tissue, localized erythematous skin. Severe complications may include sepsis / nec fasc.;Fever, malaise, chills. Development of localized tender rash.+PEARL: unilateral. If bilateral, consider other diagnoses. ;Erythematous tender lesion, not uniformly raised. Borders usually not clearly defined. May have vesicles, erosions, abscesses, or be associated with lymphangitis. ;Diagnosis is mainly clinical. Helpful investigations include:+- leukocytosis on CBC+- elevated CRP +- peripheral swab or blood cultures+- US may be useful in the ED for ?fluid collections;Eczema/dermatitis, deep vein thrombosis, drug-reaction, psoriasis, erysipelas, venous ulcers, nec fasc;1st line: cloxacillin or cefazolin (no PO)/cephalexin (Keflex, available PO)+2nd line: erythromycin or clindamycin.+Children: cefuroxime.+If DM (foot infections): TMP/SMX and metronidazole;Quite common across all demographics.  affects people of all ages and races. Risk factors include prior episodes of cellulitis, tinea pedis, venous disease, current injury (ie trauma, surgical), immunodeficiency;GAS, S. aureus (large sized wounds), H. influenzae (periorbital), Pasteurella multocida (dog/ cat bite);Cellulitis is a common infection of the lower dermal area often presenting with fever and localized usually unilateral erythematous tender lesion. Usually caused by gram positive bacteria, such as GAS and S. aureus. Diagnosis clinical, but may consider infectious BW. 1st line Abx cloxacillin / cephalexin in adults, cefuroxime pediatric.
-Actinic Keratosis;actinickeratosis.html;filler;images/;;;;;;;;;
-Psoriasis;psoriasis.html;filler;images/;;;;;;;;;
-Acne vulgaris;acnevulgaris.html;filler;images/;;;;;;;;;
-Seborrheic dermatitis;seborrheicdermatitis.html;filler;images/;;;;;;;;;
-Uticaria;uticaria.html;filler;images/;;;;;;;;;
-Basal cell carcinoma;basalcellcarcinoma.html;filler;images/;;;;;;;;;
-Squamous cell carcinoma;squamouscellcarcinoma.html;filler;images/;;;;;;;;;
-Melanoma;melanoma.html;filler;images/;;;;;;;;;
-Folliculitis;folliculitis.html;filler;images/;;;;;;;;;
-Diaper rash;diaperrash.html;filler;images/;;;;;;;;;
-Atopic dermatitis;atopicdermatitis.html;filler;images/;;;;;;;;;
-Hidradenitis suppurativa;hidradenitissuppurativa.html;filler;images/;;;;;;;;;
-Impetigo;impetigo.html;filler;images/;;;;;;;;;
-Tinea corporis;tineacorporis.html;;;;;;;;;;;
-Lichen planus;lichenplanus.html;filler;images/;;;;;;;;;
-Venous ulcer;venousulcer.html;filler;images/;;;;;;;;;
-Contact dermatitis;contactdermatitis.html;filler;images/;;;;;;;;;
-Rosacea;rosacea.html;filler;images/;;;;;;;;;
-Scarlet fever;scarletfever.html;filler;images/;;;;;;;;;
-Erythema infectiosum;erythemainfectiosum.html;filler;images/;;;;;;;;;
+Name;html;tags;imageSrc;defin;symptoms;pe;diagnosis;ddx;management;epid;patho;summary;links
+Cellulitis;cellulitis.html;red, erythema, tender, unilateral, abscess, erosions+pediatric, adult, diabetes, immunocompromised+non-emergent+infection;images/cellulitis_dermN_01.jpg;Bacterial infection of lower dermis and subcutaneous tissue, localized erythematous skin. Severe complications may include sepsis / nec fasc.;Fever, malaise, chills. Development of localized tender rash.+PEARL: unilateral. If bilateral, consider other diagnoses. ;Erythematous tender lesion, not uniformly raised. Borders usually not clearly defined. May have vesicles, erosions, abscesses, or be associated with lymphangitis. ;Diagnosis is mainly clinical. Helpful investigations include:+- leukocytosis on CBC+- elevated CRP +- peripheral swab or blood cultures+- US may be useful in the ED for ?fluid collections;Eczema/dermatitis, deep vein thrombosis, drug-reaction, psoriasis, erysipelas, venous ulcers, nec fasc;1st line: cloxacillin or cefazolin (no PO)/cephalexin (Keflex, available PO)+2nd line: erythromycin or clindamycin.+Children: cefuroxime.+If DM (foot infections): TMP/SMX and metronidazole;Quite common across all demographics.  affects people of all ages and races. Risk factors include prior episodes of cellulitis, tinea pedis, venous disease, current injury (ie trauma, surgical), immunodeficiency;GAS, S. aureus (large sized wounds), H. influenzae (periorbital), Pasteurella multocida (dog/ cat bite);Cellulitis is a common infection of the lower dermal area often presenting with fever and localized usually unilateral erythematous tender lesion. Usually caused by gram positive bacteria, such as GAS and S. aureus. Diagnosis clinical, but may consider infectious BW. 1st line Abx cloxacillin / cephalexin in adults, cefuroxime pediatric.;"<li></li>
+<li></li>
+<li></li>
+<li></li>"
+Actinic Keratosis;actinickeratosis.html;erythema, scaly, white, yellow, red, horny, thickened+adult, sun, ;;;;;;;;;;;
+Psoriasis;psoriasis.html;;;;;;;;;;;;
+Acne vulgaris;acnevulgaris.html;;;;;;;;;;;;
+Seborrheic dermatitis;seborrheicdermatitis.html;;;;;;;;;;;;
+Uticaria;uticaria.html;;;;;;;;;;;;
+Basal cell carcinoma;basalcellcarcinoma.html;;;;;;;;;;;;
+Squamous cell carcinoma;squamouscellcarcinoma.html;;;;;;;;;;;;
+Melanoma;melanoma.html;;;;;;;;;;;;
+Folliculitis;folliculitis.html;;;;;;;;;;;;
+Diaper rash;diaperrash.html;;;;;;;;;;;;
+Atopic dermatitis;atopicdermatitis.html;;;;;;;;;;;;
+Hidradenitis suppurativa;hidradenitissuppurativa.html;;;;;;;;;;;;
+Impetigo;impetigo.html;;;;;;;;;;;;
+Tinea corporis;tineacorporis.html;;;;;;;;;;;;
+Lichen planus;lichenplanus.html;;;;;;;;;;;;
+Venous ulcer;venousulcer.html;;;;;;;;;;;;
+Contact dermatitis;contactdermatitis.html;;;;;;;;;;;;
+Rosacea;rosacea.html;;;;;;;;;;;;
+Scarlet fever;scarletfever.html;;;;;;;;;;;;
+Erythema infectiosum;erythemainfectiosum.html;;;;;;;;;;;;
